@@ -1,0 +1,5 @@
+Ruta de Sabores del Lago;Gastronómico;35000
+Navegación Lago Llanquihue;Lacustre;42000
+Circuito Patrimonial Frutillar;Cultural;28000
+Cata de Cervezas y Cecinas;Gastronómico;30000
+Paseo en Kayak Río Maullín;Lacustre;48000
